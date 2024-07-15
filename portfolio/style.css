@@ -1,0 +1,109 @@
+*{margin: 0;padding: 0;}
+    
+body{
+    background-color: rgb(99, 129, 174);
+    color: beige;
+   
+   
+}
+
+
+nav{
+    background-color: rgb(25, 31, 64);
+    display: flex ;
+   justify-content: space-around;
+align-items: center ;
+height: 40px;  
+}
+
+nav ul li{
+list-style: none;
+display: inline;  
+margin: 20px;
+
+}
+
+.main{
+justify-content: space-around;
+display: flex;
+margin:  50px; 
+
+}
+
+main > div { width : 30%;
+
+}
+
+.intro{
+    text-align: left;
+    height: 30px;width: 230px;
+    font-size: 30px;
+    display: inline;
+    text-shadow: 2px 2px;
+}
+
+span{
+color: aquamarine;
+text-shadow: 2px 2px rgb(68, 36, 121);
+
+}
+img{
+    width:389px;
+    height:250px;
+}
+
+
+.edu{
+justify-content: space-around;
+display: flex;
+margin-top: 89PX;
+font-size: 20px;
+/* text-shadow: 2px 2px; */
+}
+
+.B{ color: beige;}
+
+.A{ color: beige; }
+
+.DESC{
+justify-content: space-around;
+display: flex;
+margin-top: 10PX;
+font-size: 20px;
+}
+
+.abb{ text-align: center;
+margin-top: 20px;                 
+color: beige;
+font-size: 20px;
+
+}
+
+span{ color: rgb(21, 27, 4);}
+
+nav ul li:hover{ 
+   color:rgb(116, 114, 114);
+  
+}
+
+   
+footer{
+ background:rgb(25, 31, 64); 
+ margin-top: 39px;
+ text-align: center;
+}
+
+.button{
+margin-left: 420px;
+margin-top: 38px;
+margin-bottom: 0%;
+}
+
+
+
+
+
+
+
+
+
